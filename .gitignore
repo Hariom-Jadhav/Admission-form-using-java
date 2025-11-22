@@ -1,0 +1,17 @@
+# --- Eclipse System Files (Don't Push) ---
+.settings/
+bin/
+.classpath
+.project
+.metadata/
+
+# --- Compiled Java Files (Don't Push) ---
+*.class
+
+# --- External Libraries (Don't Push) ---
+*.jar
+*.war
+
+# --- OS Generated Files (Don't Push) ---
+.DS_Store
+Thumbs.db
